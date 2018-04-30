@@ -16,6 +16,7 @@ String getDetails()
 class SuperFlower {
 public static void main ( String args[] ) {   
     System.out.println("Tugas Modul 5 Kelompok 33");
+    System.out.println("Program Klasifikasi Bunga");
     System.out.println("Erika Simanjuntak");
     System.out.println("21120117130063");
            
